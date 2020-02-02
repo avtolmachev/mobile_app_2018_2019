@@ -1,0 +1,3 @@
+C:/Users/temik/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/mergeSort.dir
+C:/Users/temik/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/temik/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
